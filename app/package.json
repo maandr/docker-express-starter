@@ -1,0 +1,13 @@
+{
+  "name": "docker-express-starter",
+  "version": "1.0.0",
+  "description": "Node.js express app on Docker",
+  "author": "Mats Andresen <mats.andresen@gmx.de>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
